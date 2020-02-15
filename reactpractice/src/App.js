@@ -8,6 +8,14 @@ import Footer from "./components/Footer";
 import React, { Component } from "react";
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      score: 0,
+      topscore: 0
+    };
+  }
+
   render() {
     return (
       <div className="App">

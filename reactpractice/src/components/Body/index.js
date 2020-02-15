@@ -33,8 +33,17 @@ class Body extends Component{
             {id: 12, img: img12, clicked: false}
         ]
     };
-    shuffle = () => {
+    shuffle = (id) => {
         const cards = this.state.images;
+        for(var i=0; i<this.state.images.length; i++){
+            if(this.state.images[i].id == id && this.state.images[i].clicked == false){
+                this.state.images[i].clicked = true;
+            }else if(this.state.images[i].clicked != false){
+                
+            }
+            
+        }
+        
         cards.sort((a, b) => {
             return 0.5 - Math.random();
           });
