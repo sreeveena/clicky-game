@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "cd reactpractice && npm start"
+    "install": "cd reactpractice && npm install"
+    "build": "cd reactpractice && npm run build"
   },
   "repository": {
     "type": "git",
