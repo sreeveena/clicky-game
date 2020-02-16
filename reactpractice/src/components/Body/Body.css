@@ -1,15 +1,18 @@
 .cards {
-    padding-left: 25%;
-    padding-right: 25%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 .cardimage img {
     height: 200px;
     width: 200px;
+    
   }
 .cardimage {
     height: 200px;
     width: 200px;
     float: left;
     margin: 1%;
-    border: solid;
+}
+.footer{
+    background-color: cornflowerblue;
 }

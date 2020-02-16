@@ -8,7 +8,7 @@ class Card extends Component{
 
     render() {
         return (
-            <div className="cardimage" onClick={this.props.cb(this.props.id)}>
+            <div className="cardimage card-select" onClick={()=> this.props.cb(this.props.id)}>
             <img src={this.props.img} />
             </div>
         );

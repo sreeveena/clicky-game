@@ -7,7 +7,7 @@ function Footer({ children }) {
       className="footer"
     >
       <div></div>
-      <div>Clicky Game!</div> 
+      <div className="bg-primary">Clicky Game!</div> 
     </div>
   );
 }
