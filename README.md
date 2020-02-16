@@ -3,14 +3,14 @@
 Clicky Game (memory Game)
 
 Technologies used:
-HTML
-CSS
-Bootstrap
-Javascript
-Node.js
-AJAX/JSON
-JQuery
-React js
+HTML, 
+CSS, 
+Bootstrap, 
+Javascript, 
+Node.js, 
+AJAX/JSON, 
+JQuery, 
+React js.
 
 Heroku Link: 
 
