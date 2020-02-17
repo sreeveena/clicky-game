@@ -7,9 +7,7 @@ HTML,
 CSS, 
 Bootstrap, 
 Javascript, 
-Node.js, 
-AJAX/JSON, 
-JQuery, 
+Node.js,  
 React js.
 
 Heroku Link:  https://agile-peak-38179.herokuapp.com
